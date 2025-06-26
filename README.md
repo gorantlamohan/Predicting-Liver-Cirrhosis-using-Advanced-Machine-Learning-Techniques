@@ -1,2 +1,2 @@
-Liver cirrhosis is a widespread problem especially in North America due to high intake of alcohol. In this project, we will predict liver cirrhosis in a patient based on certain lifestyle and health conditions of a patient.
+Cirrhosis of the liver is permanent scarring that damages your liver and interferes with its functioning. It can lead to liver failure. Cirrhosis is the result of persistent liver damage over many years. Alcohol and drugs, viruses and metabolic factors are the most common causes.
 ![Image](https://github.com/user-attachments/assets/d91b3d14-dbb5-40b5-a4b6-6dff0713eab7)
