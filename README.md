@@ -26,6 +26,9 @@ Doctors can sometimes treat symptoms and problems of cirrhosis, but the damage t
  </p> Feeling weak or tired (fatigue).
  </p> Redness on the palms of your hands (palmar erythema).
  </p> symptoms of advancing cirrhosis?
+ </p> Recognizable symptoms of cirrhosis fall into two categories: symptoms related to declining liver function, and symptoms related to portal hypertension. Symptoms of stalled bile flow, like jaundice, are common indicators of declining liver function. Symptoms of portal hypertension indicate cirrhosis specifically. It’s scar tissue in your liver that compresses your portal vein.
+ </p> Dark-colored pee and light-colored poop.
+Digestive difficulties, especially with fats.
    
 <table>
   <tr>
