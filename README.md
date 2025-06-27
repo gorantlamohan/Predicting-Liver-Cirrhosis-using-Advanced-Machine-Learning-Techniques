@@ -15,8 +15,8 @@ In liver cirrhosis, there are mainly 4 stages which are as follows:
 </ol>
 <table>
   <tr>
-    <th><b>Feature</b></th>
     <th><b>Description</b></th>
+    <th><b>content</b></th>
   </tr>
   <tr>
     <td>ID</td>
