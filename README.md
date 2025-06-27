@@ -25,6 +25,7 @@ Doctors can sometimes treat symptoms and problems of cirrhosis, but the damage t
  </p> Feeling generally ill (malaise).
  </p> Feeling weak or tired (fatigue).
  </p> Redness on the palms of your hands (palmar erythema).
+ </p> symptoms of advancing cirrhosis?
    
 <table>
   <tr>
