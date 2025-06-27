@@ -47,10 +47,6 @@ In liver cirrhosis, there are mainly 4 stages which are as follows:
     <td>Presence of Hepatomegaly: N (No) or Y (Yes)</td>
   </tr>
   <tr>
-    <td>Spiders</td>
-    <td>Presence of Spiders: N (No) or Y (Yes)</td>
-  </tr>
-  <tr>
     <td>Edema</td>
     <td>Presence of Edema: N (no edema and no diuretic therapy for edema), S (edema present without diuretics, or edema resolved by diuretics), or Y (edema despite diuretic therapy)</td>
   </tr>
