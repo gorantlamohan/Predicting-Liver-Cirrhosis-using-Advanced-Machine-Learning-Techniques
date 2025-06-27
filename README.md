@@ -19,10 +19,6 @@ In liver cirrhosis, there are mainly 4 stages which are as follows:
     <th><b>content</b></th>
   </tr>
   <tr>
-    <td>ID</td>
-    <td>Unique Identifier</td>
-  </tr>
-  <tr>
     <td>N_Days</td>
     <td>Number of days between registration and the earlier of death, transplantation, or study analysis time in July 1986</td>
   </tr>
