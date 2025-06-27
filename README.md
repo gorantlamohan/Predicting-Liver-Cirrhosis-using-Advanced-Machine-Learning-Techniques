@@ -16,6 +16,8 @@ In liver cirrhosis, there are mainly 4 stages which are as follows:
 Cirrhosis is caused mainly by drinking too much alcohol for a long time, having viral hepatitis, or having a buildup of fat in your liver (fatty liver)
 Symptoms include not feeling hungry, weight loss, and feeling weak and tired all over
 Doctors can sometimes treat symptoms and problems of cirrhosis, but the damage to your liver is permanent
+
+
  <p> Symptoms and Causes
 <table>
   <tr>
