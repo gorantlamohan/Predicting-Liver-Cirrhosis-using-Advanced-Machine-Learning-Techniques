@@ -19,7 +19,7 @@ In liver cirrhosis, there are mainly 4 stages which are as follows:
     <th><b>content</b></th>
   </tr>
   <tr>
-    <td>N_Days</td>
+    <td>No Days</td>
     <td>Number of days between registration and the earlier of death, transplantation, or study analysis time in July 1986</td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ In liver cirrhosis, there are mainly 4 stages which are as follows:
   </tr>
   <tr>
     <td>Hepatomegaly</td>
-    <td>Presence of Hepatomegaly: N (No) or Y (Yes)</td>
+    <td>Presence of Hepatomegaly: (No) or (Yes)</td>
   </tr>
   <tr>
     <td>Edema</td>
