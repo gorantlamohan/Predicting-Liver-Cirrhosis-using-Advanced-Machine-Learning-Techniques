@@ -20,6 +20,7 @@ Doctors can sometimes treat symptoms and problems of cirrhosis, but the damage t
 
  </p> Symptoms and Causes
  </p> Signs and symptoms of cirrhosis depend on how advanced it is. You might not have symptoms at all early on, or you might only have vague symptoms that resemble many other conditions. Symptoms of cirrhosis become more recognizable as your liver function declines. For example, you might see signs that bile isn’t traveling where it needs to go, and instead is overflowing into places it doesn’t belong.
+ </p> Early signs and symptoms of cirrhosis may include:
    
 <table>
   <tr>
