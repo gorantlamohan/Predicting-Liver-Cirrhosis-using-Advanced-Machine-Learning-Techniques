@@ -18,7 +18,8 @@ Symptoms include not feeling hungry, weight loss, and feeling weak and tired all
 Doctors can sometimes treat symptoms and problems of cirrhosis, but the damage to your liver is permanent
 
 
- <p> Symptoms and Causes
+ </p> Symptoms and Causes
+   
 <table>
   <tr>
     <th><b>Description</b></th>
