@@ -13,4 +13,89 @@ In liver cirrhosis, there are mainly 4 stages which are as follows:
   <li>Stage 3 : Liver Fibrosis</li>
   <li>Stage 4 : Liver Cirrhosis</li>
 </ol>
-
+<table>
+  <tr>
+    <th><b>Feature</b></th>
+    <th><b>Description</b></th>
+  </tr>
+  <tr>
+    <td>ID</td>
+    <td>Unique Identifier</td>
+  </tr>
+  <tr>
+    <td>N_Days</td>
+    <td>Number of days between registration and the earlier of death, transplantation, or study analysis time in July 1986</td>
+  </tr>
+  <tr>
+    <td>Status</td>
+    <td>Status of the patient: C (censored), CL (censored due to liver tx), or D (death)</td>
+  </tr>
+  <tr>
+    <td>Drug</td>
+    <td>Type of drug: D-penicillamine or Placebo</td>
+  </tr>
+  <tr>
+    <td>Age</td>
+    <td>Age (in days)</td>
+  </tr>
+  <tr>
+    <td>Sex</td>
+    <td>M (Male) or F (Female)</td>
+  </tr>
+  <tr>
+    <td>Ascites</td>
+    <td>Presence of Ascites: N (No) or Y (Yes)</td>
+  </tr>
+  <tr>
+    <td>Hepatomegaly</td>
+    <td>Presence of Hepatomegaly: N (No) or Y (Yes)</td>
+  </tr>
+  <tr>
+    <td>Spiders</td>
+    <td>Presence of Spiders: N (No) or Y (Yes)</td>
+  </tr>
+  <tr>
+    <td>Edema</td>
+    <td>Presence of Edema: N (no edema and no diuretic therapy for edema), S (edema present without diuretics, or edema resolved by diuretics), or Y (edema despite diuretic therapy)</td>
+  </tr>
+  <tr>
+    <td>Bilirubin</td>
+    <td>Serum Bilirubin (in mg/dl)</td>
+  </tr>
+  <tr>
+    <td>Cholesterol</td>
+    <td>Serum Cholesterol (in mg/dl)</td>
+  </tr>
+  <tr>
+    <td>Albumin</td>
+    <td>Albumin (in gm/dl)</td>
+  </tr>
+  <tr>
+    <td>Copper</td>
+    <td>Urine Copper (in ug/day)</td>
+  </tr>
+  <tr>
+    <td>Alk_Phos</td>
+    <td>Alkaline Phosphatase (in U/liter)</td>
+  </tr>
+  <tr>
+    <td>SGOT</td>
+    <td>SGOT (in U/ml)</td>
+  </tr>
+  <tr>
+    <td>Triglycerides</td>
+    <td>Triglicerides (in mg/dl)</td>
+  </tr>
+  <tr>
+    <td>Platelets</td>
+    <td>Platelets per cubic (ml/1000)</td>
+  </tr>
+  <tr>
+    <td>Prothrombin</td>
+    <td>Prothrombin time in seconds (s)</td>
+  </tr>
+  <tr>
+    <td>Stage</td>
+    <td>Histologic Stage of Disease (1, 2, 3 or 4)</td>
+  </tr>
+</table>
