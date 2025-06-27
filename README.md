@@ -7,9 +7,10 @@ Cirrhosis of the liver is permanent scarring that damages your liver and interfe
 CONTENT:
 In liver cirrhosis, there are mainly 4 stages which are as follows:
 
-Stage 1 : Normal
-Stage 2 : Fatty Liver
-Stage 3 : Liver Fibrosis
-Stage 4 : Liver Cirrhosis
-The primary target is to predict the stage of the liver cirrhosis disease.
+<ol type="a">
+  <li>Stage 1 : Normal</li>
+  <li>Stage 2 : Fatty Liver</li>
+  <li>Stage 3 : Liver Fibrosis</li>
+  <li>Stage 4 : Liver Cirrhosis</li>
+</ol>
 
