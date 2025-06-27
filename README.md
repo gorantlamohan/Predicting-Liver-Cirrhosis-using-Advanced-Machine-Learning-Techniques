@@ -29,6 +29,9 @@ Doctors can sometimes treat symptoms and problems of cirrhosis, but the damage t
  </p> Recognizable symptoms of cirrhosis fall into two categories: symptoms related to declining liver function, and symptoms related to portal hypertension. Symptoms of stalled bile flow, like jaundice, are common indicators of declining liver function. Symptoms of portal hypertension indicate cirrhosis specifically. It’s scar tissue in your liver that compresses your portal vein.
  </p> Dark-colored pee and light-colored poop.
 Digestive difficulties, especially with fats.
+</p> Small yellow bumps of fat deposits on your skin or eyelids.
+</p> Motor dysfunction (twitching, tremors or lapses in muscle control).
+</p> Disruptions to your menstrual cycle.
    
 <table>
   <tr>
