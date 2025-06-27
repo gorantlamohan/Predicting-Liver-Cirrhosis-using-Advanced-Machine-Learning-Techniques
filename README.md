@@ -5,7 +5,7 @@ Cirrhosis of the liver is permanent scarring that damages your liver and interfe
 ![Image](https://github.com/user-attachments/assets/c40c0e36-a98e-4cb0-8d4a-7d283ba2cd21)
 
 CONTENT:
-In liver cirrhosis, there are mainly 4 stages which are as follows:
+</p> In liver cirrhosis, there are mainly 4 stages which are as follows:
 
 <ol type="a">
   <li>Stage 1 : Normal</li>
