@@ -105,6 +105,7 @@ Digestive difficulties, especially with fats.
   <tr>
     <td>Prothrombin</td>
     <td>Prothrombin time in seconds (s)</td>
+    Liver cirrhosis is a condition that can develop due to various factors that put a strain on the liver over time. Some of these factors can increase the risk of developing cirrhosis. Understanding these risk factors is crucial in preventing and managing this condition.
   </tr>
   <tr>
     <td>Stage</td>
