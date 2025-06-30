@@ -116,3 +116,4 @@ Fatigue
   </tr>
 </table>
 </tr>Liver cirrhosis is a condition that can develop due to various factors that put a strain on the liver over time. Some of these factors can increase the risk of developing cirrhosis. Understanding these risk factors is crucial in preventing and managing this condition.
+</tr>Liver cirrhosis is a progressive condition that can lead to various symptoms. These symptoms may vary depending on the stage of the disease and the individual's overall health. Common signs of liver cirrhosis include changes in appetite, fatigue, weight loss, and weakness. Additionally, individuals with cirrhosis may experience abdominal pain, swelling in the legs or abdomen, and jaundice. It is important to consult a healthcare provider if you experience any of these symptoms to receive proper diagnosis and treatment.
