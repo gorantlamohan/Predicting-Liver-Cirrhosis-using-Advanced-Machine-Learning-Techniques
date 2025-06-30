@@ -112,3 +112,4 @@ Digestive difficulties, especially with fats.
     <td>Histologic Stage of Disease (1, 2, 3 or 4)</td>
   </tr>
 </table>
+</tr>Liver cirrhosis is a condition that can develop due to various factors that put a strain on the liver over time. Some of these factors can increase the risk of developing cirrhosis. Understanding these risk factors is crucial in preventing and managing this condition.
