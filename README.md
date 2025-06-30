@@ -1,7 +1,5 @@
 Cirrhosis of the liver is permanent scarring that damages your liver and interferes with its functioning. It can lead to liver failure. Cirrhosis is the result of persistent liver damage over many years. Alcohol and drugs, viruses and metabolic factors are the most common causes.
 ![Image](https://github.com/user-attachments/assets/fe65def8-f2e1-4bc3-9fe1-c10dd4ab9cd8)
-
-
 ![Image](https://github.com/user-attachments/assets/c40c0e36-a98e-4cb0-8d4a-7d283ba2cd21)
 
 CONTENT:
